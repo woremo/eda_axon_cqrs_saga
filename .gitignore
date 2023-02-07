@@ -1,0 +1,16 @@
+AxonServer-4.6.7/
+AxonServer.zip
+.DS_Store
+*.events
+*.db
+.events
+.snapshots
+.db
+.mv.db
+./axonserver-docker/events/default/
+./axonserver-docker/data/axonserver-controldb.mv.db
+./axonserver-docker/events/default/00000000000000000000.snapshots
+.idea/
+./axonserver-docker/data/plugins/cache/.fuse_hidden0000002200000002
+./axonserver-docker/data/AxonIQ.pid
+axonserver-controldb.mv.db
